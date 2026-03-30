@@ -1,5 +1,4 @@
 # GERADOR-FJ
-Página pessoal
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -98,7 +97,7 @@ color:#d966ff;
 
 <div class="panel">
 
-<h1>💜 SENSI MENSTRUADA 💜</h1>
+<h1>🩵 GERADOR FJ 🩵</h1>
 
 <button class="btn" onclick="gerar()">🎮 GERAR SENSI</button>
 
